@@ -19,5 +19,9 @@
 
 ## Problem 2 - Fancy Form 
 
+**Start Time: 2024/06/13 13:00 PM**  |  **End Time: 2024/06/12 18:35 PM**
+
+[You can see it on](https://fancy-form-omega.vercel.app/)
+
  ### STEP TO RUN ON LOCAL:
   - Change directory path to **problem2/fancy-form** and ensure you install **Node** then typing on terminal **yarn start** and relax.
