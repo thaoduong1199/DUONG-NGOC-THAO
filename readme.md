@@ -14,3 +14,10 @@
 ### STEP TO RUN: 
 
 - Change directory path to **problem1** and ensure you install **Node** then typing on terminal **node index.js**, input your number and relax.
+
+
+
+## Problem 2 - Fancy Form 
+
+ ### STEP TO RUN ON LOCAL:
+  - Change directory path to **problem2/fancy-form** and ensure you install **Node** then typing on terminal **yarn start** and relax.
