@@ -48,7 +48,7 @@ const exchangeRates = [
     currency: "STEVMOS",
     date: "2023-08-29T07:10:40.000Z",
     price: 0.07276706779661017,
-    img: "/images/STEVMOS.svg",
+    img: "/images/stEVMOS.svg",
   },
   {
     currency: "LUNA",
@@ -60,7 +60,7 @@ const exchangeRates = [
     currency: "RATOM",
     date: "2023-08-29T07:10:40.000Z",
     price: 10.250918915254237,
-    img: "/images/RATOM.svg",
+    img: "/images/rATOM.svg",
   },
   {
     currency: "STRD",
@@ -102,7 +102,7 @@ const exchangeRates = [
     currency: "STOSMO",
     date: "2023-08-29T07:10:45.000Z",
     price: 0.431318,
-    img: "/images/STOSMO.svg",
+    img: "/images/stOSMO.svg",
   },
   {
     currency: "USDC",
@@ -126,7 +126,7 @@ const exchangeRates = [
     currency: "STATOM",
     date: "2023-08-29T07:10:45.000Z",
     price: 8.512162050847458,
-    img: "/images/STATOM.svg",
+    img: "/images/stATOM.svg",
   },
   {
     currency: "OSMO",
@@ -144,7 +144,7 @@ const exchangeRates = [
     currency: "STLUNA",
     date: "2023-08-29T07:10:40.000Z",
     price: 0.44232210169491526,
-    img: "/images/STLUNA.svg",
+    img: "/images/stLUNA.svg",
   },
   {
     currency: "LSI",
