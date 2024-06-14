@@ -25,3 +25,13 @@
 
  ### STEP TO RUN ON LOCAL:
   - Change directory path to **problem2/fancy-form** and ensure you install **Node** then typing on terminal **yarn start** and relax.
+
+
+
+## Problem 3 - Messy React
+
+**Start Time: 2024/06/14 15:30 PM**  |  **End Time: 2024/06/12 17:40 PM**
+
+- Inside the problem3 file included:
+    **MessyReact.tsx**: contain explanation details about refactor 
+    **MessyReactRefactor.tsx**: all code after refactor
